@@ -1,0 +1,18 @@
+    Comedia
+    Crimen
+    Drama
+    Acción
+    Romance
+    Suspense
+    Aventura
+    Ciencia ficción
+    Fantasía
+    Animación
+    Terror
+    Misterio
+    Familia
+    Documental
+    Música
+    Western
+    Bélica
+    Historia
